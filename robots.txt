@@ -1,0 +1,8 @@
+# robots.txt for Amish Suchak's Portfolio
+# https://amish-suchak.github.io/amish-portfolio/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://amish-suchak.github.io/amish-portfolio/sitemap.xml
